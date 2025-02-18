@@ -1,5 +1,5 @@
 
-## Intro  
+## About me  
 <div align="center">
 <img src="https://i.gifer.com/39Cg.gif" align="center" style="width: 20%" />
 </div>  
