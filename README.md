@@ -50,6 +50,9 @@
 <a href="https://cython.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cython-original.svg" alt="Cython" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="./icons/fastapi.svg" alt="FastAPI" height="50" /></a>
+<a href="https://www.sqlalchemy.org/" target="_blank"><img style="margin: 10px" src="./icons/SQLAlchemy.svg" alt="FastAPI" height="50" /></a>
+
+
 
 </div>
 
